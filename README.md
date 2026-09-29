@@ -16,9 +16,16 @@
 
 ---
 
+## Requirements
+
+1. **Minecraft: Java Edition** (1.21.11+)
+2. **Minecraft: Bedrock Edition** (1.21.130+)
+
+---
+
 ## Installation
 
-Installation instructions for **Minecraft: Java Edition** _(Windows and Linux)_ and **Minecraft: Bedrock Edition** (Windows and Linux).
+Installation instructions for **Minecraft: Java Edition** and **Minecraft: Bedrock Edition**. (_Windows and Linux_)
 
 ### Minecraft: Java Edition
 
