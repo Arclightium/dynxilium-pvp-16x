@@ -20,6 +20,7 @@
 
 1. **Minecraft: Java Edition** (1.21.11+)
 2. **Minecraft: Bedrock Edition** (1.21.130+)
+3. [**Blurry's Crossplay Animations**](https://www.curseforge.com/minecraft-bedrock/addons/blurrys-crossplay-animations) (optional, Bedrock-only)
 
 ---
 
