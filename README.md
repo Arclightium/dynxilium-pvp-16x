@@ -18,6 +18,8 @@
 
 ## Installation
 
+Installation instructions for **Minecraft: Java Edition** _(Windows and Linux)_ and **Minecraft: Bedrock Edition** (Windows and Linux).
+
 ### Minecraft: Java Edition
 
     1. Download the ZIP file from **Modrinth**. (Coming soon, currently under review)
