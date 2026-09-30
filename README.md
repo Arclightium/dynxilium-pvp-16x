@@ -30,7 +30,7 @@ Installation instructions for **Minecraft: Java Edition** and **Minecraft: Bedro
 
 ### Minecraft: Java Edition
 
-   1. Download the ZIP file from **Modrinth**. (Coming soon, currently under review)
+   1. Download the ZIP file from [**Modrinth**](https://modrinth.com/resourcepack/dynxilium-pvp-16x).
    2. Press **Win + R**, then type `%appdata%` and press **Enter**. If you're on Linux, you just need to open your terminal emulator.
    3. Copy and paste (or move) the ZIP file from your download directory to `.minecraft\resourcepacks\`. If you're on Linux, copy and paste (or move) the ZIP file to `~/.minecraft/resourcepacks/`.
 
