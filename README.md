@@ -8,11 +8,11 @@
 
 - 16x16 textures
 - 1-pixel fire overlay
-- Clean obsidian, glowstone, end crystal, and respawn anchor textures.
-- Black-and-white style for Diamond and Netherite armor and weapons.
-- Small totem.
-- Minimalized particles (**Bedrock-only**)
-- **Supports Java and Bedrock**.
+- Clean obsidian, glowstone, end crystal, and respawn anchor textures
+- Black-and-white style for Diamond and Netherite armor and weapons
+- Small totem
+- Minimal particle textures (**Bedrock-only**)
+- **Supports Java and Bedrock**
 
 ---
 
@@ -26,23 +26,27 @@
 
 ## Installation
 
-Installation instructions for **Minecraft: Java Edition** and **Minecraft: Bedrock Edition**. (_Windows and Linux_)
+Installation instructions for **Minecraft: Java Edition** and **Minecraft: Bedrock Edition** on Windows and Linux.
 
 ### Minecraft: Java Edition
 
    1. Download the ZIP file from [**Modrinth**](https://modrinth.com/resourcepack/dynxilium-pvp-16x).
-   2. Press **Win + R**, then type `%appdata%` and press **Enter**. If you're on Linux, you just need to open your terminal emulator.
-   3. Copy and paste (or move) the ZIP file from your download directory to `.minecraft\resourcepacks\`. If you're on Linux, copy and paste (or move) the ZIP file to `~/.minecraft/resourcepacks/`.
+   2. Open your `.minecraft` directory:
+      - **Windows**: Press **Win + R**, type `%appdata%\.minecraft`, and press **Enter**.
+      - **Linux**: Open `~/.minecraft/`.
+   3. Copy or move the ZIP file to the `resourcepacks` directory.
 
-      > Locations are variant if you're using separate folder for instances/versions or spesific Minecraft third-party launcher.
+      > Locations may vary when using separate instance folder, custom launcher, or third-party launcher.
 
 ### Minecraft: Bedrock Edition
 
    1. Download the `.mcpack` file from [**CurseForge**](https://www.curseforge.com/minecraft-bedrock/texture-packs/dynxilium-pvp-16x).
-   2. Press **Win + R**, then type `%LOCALAPPDATA%` and press **Enter**. If you're on Linux, you just need to open your terminal emulator.
-   3. Copy and paste (or move) the `.mcpack` file from your download directory to `Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\resource_packs\`. If you're on Linux, copy and paste (or move) the `.mcpack` to `~/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/games/com.mojang/resource_packs/`. (Example for **Minecraft Bedrock Launcher** official Flatpak package)
+   2. Open your Minecraft Bedrock directory:
+      - **Windows**: Press **Win + R**, type `%appdata%\Minecraft Bedrock\Users\Shared\games\com.mojang`, and press **Enter**.
+      - **Linux**: Open `~/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/games/com.mojang/`.
+   3. Copy or move the `.mcpack` file to `resource_packs` directory.
 
-      > Locations are variant if you're using spesific Minecraft Bedrock third-party launcher.
+      > The Linux path above is an example for the **Minecraft Bedrock Launcher** official Flatpak package. Locations may vary when using other launchers.
 
 ---
 
